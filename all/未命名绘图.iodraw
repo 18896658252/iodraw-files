@@ -175,10 +175,10 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-142" value="交通类（30%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-171" value="•       &#xa;门窗类（8%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
+        <mxCell id="J9957J2RrdoFGION4xRZ-171" value="门窗类（8%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="410" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-172" value="•       &#xa;吊装类（8%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
+        <mxCell id="J9957J2RrdoFGION4xRZ-172" value="吊装类（8%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="410" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-173" value="•       &#xa;其他专项（8%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
