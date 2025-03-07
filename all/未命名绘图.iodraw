@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mnoa9309GwLsAUJmgYwf">
-    <mxGraphModel dx="2333" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3500" dy="2097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,34 +209,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-92" value="1.原理图/设备资料熟悉（5%）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="871" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-94" target="J9957J2RrdoFGION4xRZ-96" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-94" value="2.图纸设绘（40%）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="871" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-96" target="J9957J2RrdoFGION4xRZ-98" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-96" value="3.图纸校对及评审（15%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="871" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-98" target="J9957J2RrdoFGION4xRZ-100" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-98" value="4.图纸送审闭环（20%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="871" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-100" target="J9957J2RrdoFGION4xRZ-102" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-100" value="5.图纸修改升版（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="871" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-101" value="四、工艺文件(15，17，2040）" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="830" y="30" width="200" height="1860" as="geometry" />
+          <mxGeometry x="831" y="30" width="200" height="1860" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-102" value="6.施工交底及配合（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-101">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
@@ -245,34 +245,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-104" value="机装生产设计图纸目录及MLA编制派工完(3，4，96）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1071" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-106" target="J9957J2RrdoFGION4xRZ-108" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-106" value="生产设计输入评审(3，4，96）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1071" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-108" target="J9957J2RrdoFGION4xRZ-110" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-108" value="详细交底及生产设计启动(3，10，240）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1071" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-110" target="J9957J2RrdoFGION4xRZ-112" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-110" value="机舱底综合布置模型平衡(3，5，120）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1071" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-112" target="J9957J2RrdoFGION4xRZ-114" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-112" value="机舱底专业间模型平衡(3，5，120）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1071" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-113" value="五、设计过程管控及配合(10，80，6400）    " style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="30" width="200" height="1860" as="geometry" />
+          <mxGeometry x="1031" y="30" width="200" height="1860" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-114" value="机舱底出图前模型平衡(3，7，168）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-113">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
@@ -345,10 +345,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-135" value="三新项目及设备穿透管理(3，10，240）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1693" width="120" height="60" as="geometry" />
+          <mxGeometry x="1071" y="1693" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-136" value="月度项目进度及质量管控、汇报(3，20，480）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1071" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
