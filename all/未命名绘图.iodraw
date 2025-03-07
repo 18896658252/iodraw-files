@@ -154,13 +154,13 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-78" target="J9957J2RrdoFGION4xRZ-80" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-78" value="6.模型平衡（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
+        <mxCell id="J9957J2RrdoFGION4xRZ-78" value="&lt;h3&gt;&lt;span lang=&quot;EN-US&quot;&gt;6.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;托盘数据发布（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;5%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="210" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-80" target="J9957J2RrdoFGION4xRZ-82" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-80" value="7.船体协议闭环、意见修改（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
+        <mxCell id="J9957J2RrdoFGION4xRZ-80" value="&lt;h3&gt;&lt;span lang=&quot;EN-US&quot;&gt;7.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;二次校模重新发布（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;5%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="210" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-82" target="J9957J2RrdoFGION4xRZ-84" parent="J9957J2RrdoFGION4xRZ-44">
