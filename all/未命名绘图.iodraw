@@ -32,7 +32,7 @@
           <mxGeometry x="100" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-10" value="一、设备订货（15，32，3840）" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="60" y="30" width="200" height="740" as="geometry" />
+          <mxGeometry x="60" y="30" width="200" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-17" target="J9957J2RrdoFGION4xRZ-19">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="500" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-44" value="三、生产设计（28，140，31280）" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="460" y="30" width="420" height="740" as="geometry" />
+          <mxGeometry x="460" y="30" width="420" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-45" value="&#xa;&#xa;&#xa;&lt;p style=&quot;margin-top:16.0pt;margin-right:0cm;margin-bottom:&#xa;0cm;margin-left:80.75pt;margin-bottom:.0001pt;text-indent:-18.1pt;line-height:&#xa;150%;mso-list:l0 level5 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;mso-list:Ignore&quot;&gt;•&lt;span style=&quot;font:7.0pt &amp;quot;Times New Roman&amp;quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;4.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&#xa;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;管段划分（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;5%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
