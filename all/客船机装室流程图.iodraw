@@ -57,13 +57,17 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-21" target="J9957J2RrdoFGION4xRZ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-21" target="J9957J2RrdoFGION4xRZ-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-21" value="3.图纸校对及评审（15%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-23" target="J9957J2RrdoFGION4xRZ-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-23" target="J9957J2RrdoFGION4xRZ-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-23" value="4.图纸送审闭环（20%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
