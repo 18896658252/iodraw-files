@@ -4,20 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aIFjQ2HuzRD-jrGYRpk4-30" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="380" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="aIFjQ2HuzRD-jrGYRpk4-31" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="aIFjQ2HuzRD-jrGYRpk4-30">
-          <mxGeometry x="20" width="120" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="aIFjQ2HuzRD-jrGYRpk4-32" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="aIFjQ2HuzRD-jrGYRpk4-30">
-          <mxGeometry x="140" width="120" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="aIFjQ2HuzRD-jrGYRpk4-33" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="aIFjQ2HuzRD-jrGYRpk4-30">
-          <mxGeometry x="260" width="120" height="480" as="geometry">
-            <mxRectangle x="260" width="40" height="480" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
