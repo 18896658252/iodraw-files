@@ -64,6 +64,9 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-25" value="二、详细设计(15，84，10080）" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="260" y="30" width="200" height="740" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-26" value="&#xa;&#xa;&#xa;&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;5.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;&quot;&gt;图纸修改升版（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;10%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&#xa;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-25">
+          <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
