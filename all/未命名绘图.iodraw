@@ -139,8 +139,11 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-51" target="J9957J2RrdoFGION4xRZ-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-51" value="•       10.托盘发布（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J9957J2RrdoFGION4xRZ-51" value="10.托盘发布（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-52" target="J9957J2RrdoFGION4xRZ-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-52" value="•       11.图纸设制、MBD数据同步（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1280" width="120" height="60" as="geometry" />
