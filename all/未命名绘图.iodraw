@@ -175,6 +175,9 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-142" value="交通类（30%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-171" value="交通类（30%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
+          <mxGeometry x="410" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-47" target="J9957J2RrdoFGION4xRZ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
