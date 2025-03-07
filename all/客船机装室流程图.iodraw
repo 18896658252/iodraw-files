@@ -436,9 +436,6 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-136" value="月度项目进度及质量管控、汇报(3，20，480）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-71" target="J9957J2RrdoFGION4xRZ-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
