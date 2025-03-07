@@ -235,7 +235,7 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-100" value="5.图纸修改升版（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-101" value="二、详细设计(15，84，10080）" style="swimlane;startSize=23;" vertex="1" parent="1">
+        <mxCell id="J9957J2RrdoFGION4xRZ-101" value="四、工艺文件(15，17，2040）" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="830" y="30" width="200" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-102" value="6.模型一致性检查（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-101">
