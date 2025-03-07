@@ -232,13 +232,13 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-100" target="J9957J2RrdoFGION4xRZ-102" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-100" value="5.图纸修改升版（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J9957J2RrdoFGION4xRZ-100" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;5.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;图纸修改升版（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;10%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-101" value="四、工艺文件(15，17，2040）" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="830" y="30" width="200" height="1510" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-102" value="6.模型一致性检查（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-101">
+        <mxCell id="J9957J2RrdoFGION4xRZ-102" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;6.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;施工交底及配合（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;10%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-101">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
