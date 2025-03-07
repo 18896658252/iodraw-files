@@ -112,17 +112,32 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-46" value="5.完整性检查、干涉检查（8%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="40" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-47" target="J9957J2RrdoFGION4xRZ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-47" value="6.模型平衡（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-48" target="J9957J2RrdoFGION4xRZ-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-48" value="7.船体协议闭环、意见修改（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-49" target="J9957J2RrdoFGION4xRZ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-49" value="8.数据提取、工艺处理（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-50" target="J9957J2RrdoFGION4xRZ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-50" value="9.管子文件输出（7%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-51" target="J9957J2RrdoFGION4xRZ-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-51" value="•       10.托盘发布（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1180" width="120" height="60" as="geometry" />
@@ -132,6 +147,9 @@
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-53" value="•       12.二次校模重新发布（8%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-46" target="J9957J2RrdoFGION4xRZ-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
