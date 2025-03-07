@@ -241,6 +241,42 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-102" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;6.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;施工交底及配合（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;10%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-101">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-104" target="J9957J2RrdoFGION4xRZ-106" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-104" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;1.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;原理图&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-family:&lt;br/&gt;等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;设备资料熟悉（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;5%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-106" target="J9957J2RrdoFGION4xRZ-108" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-106" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;图纸设绘（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;40%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-108" target="J9957J2RrdoFGION4xRZ-110" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-108" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;3.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;图纸校对及评审（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;15%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-110" target="J9957J2RrdoFGION4xRZ-112" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-110" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;4.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;图纸送审闭环（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;20%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-112" target="J9957J2RrdoFGION4xRZ-114" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-112" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;5.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;图纸修改升版（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;10%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-113" value="四、工艺文件(15，17，2040）" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="30" width="200" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-114" value="&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;6.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;施工交底及配合（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;10%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-113">
+          <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
