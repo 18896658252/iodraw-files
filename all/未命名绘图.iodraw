@@ -88,7 +88,7 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-42" target="J9957J2RrdoFGION4xRZ-43" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-42" value="•       2.综合布置（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J9957J2RrdoFGION4xRZ-42" value="2.综合布置（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-43" value="•       3.管系布置建模设计（35%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
