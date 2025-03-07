@@ -362,12 +362,6 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-136" value="月度项目进度及质量管控、汇报(3，20，480）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-144" value="交通类（30%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-142" target="J9957J2RrdoFGION4xRZ-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
