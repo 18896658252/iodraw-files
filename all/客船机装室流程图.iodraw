@@ -145,6 +145,9 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="J9957J2RrdoFGION4xRZ-44" source="J9957J2RrdoFGION4xRZ-71" target="J9957J2RrdoFGION4xRZ-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="J9957J2RrdoFGION4xRZ-44" source="J9957J2RrdoFGION4xRZ-71" target="J9957J2RrdoFGION4xRZ-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-71" value="2.舾装模型放样布置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
         </mxCell>
