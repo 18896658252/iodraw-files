@@ -205,6 +205,42 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-46" target="J9957J2RrdoFGION4xRZ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-92" target="J9957J2RrdoFGION4xRZ-94" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-92" value="1.总图/规格书熟悉（5%）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-94" target="J9957J2RrdoFGION4xRZ-96" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-94" value="2.图纸设绘（40%）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-96" target="J9957J2RrdoFGION4xRZ-98" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-96" value="3.图纸校对及评审（15%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-98" target="J9957J2RrdoFGION4xRZ-100" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-98" value="4.图纸送审闭环（20%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-100" target="J9957J2RrdoFGION4xRZ-102" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-100" value="5.图纸修改升版（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-101" value="二、详细设计(15，84，10080）" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="830" y="30" width="200" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-102" value="6.模型一致性检查（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-101">
+          <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
