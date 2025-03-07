@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mnoa9309GwLsAUJmgYwf">
-    <mxGraphModel dx="913" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,38 +157,13 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-78" value="&lt;h3&gt;&lt;span lang=&quot;EN-US&quot;&gt;6.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;托盘数据发布（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;5%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="210" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-80" target="J9957J2RrdoFGION4xRZ-82" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="J9957J2RrdoFGION4xRZ-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-80" parent="J9957J2RrdoFGION4xRZ-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="950.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-80" value="&lt;h3&gt;&lt;span lang=&quot;EN-US&quot;&gt;7.&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;二次校模重新发布（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;5%&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="210" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-82" target="J9957J2RrdoFGION4xRZ-84" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-82" value="8.数据提取、工艺处理（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry x="210" y="950" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-84" target="J9957J2RrdoFGION4xRZ-86" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-84" value="9.管子文件输出（7%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry x="210" y="1050" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-86" target="J9957J2RrdoFGION4xRZ-88" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-86" value="10.托盘发布（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry x="210" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-88" target="J9957J2RrdoFGION4xRZ-89" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-88" value="11.图纸设制、MBD数据同步（5%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry x="210" y="1250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-89" value="12.二次校模重新发布（8%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
-          <mxGeometry x="210" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-76" target="J9957J2RrdoFGION4xRZ-78" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry relative="1" as="geometry" />
