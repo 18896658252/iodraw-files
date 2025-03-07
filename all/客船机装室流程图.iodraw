@@ -172,6 +172,9 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-140" value="设备类（24%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="410" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="J9957J2RrdoFGION4xRZ-44" source="J9957J2RrdoFGION4xRZ-142" target="J9957J2RrdoFGION4xRZ-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-142" value="交通类（30%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
         </mxCell>
