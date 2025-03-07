@@ -34,9 +34,9 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-5" value="&lt;span style=&quot;font-size:10.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;5.&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;设备送审闭环（&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;10%&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-10" value="一、设备订货（15，32，3840）" style="swimlane;startSize=23;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="60" y="30" width="210" height="30" as="geometry">
-            <mxRectangle x="60" y="30" width="200" height="1860" as="alternateBounds" />
+        <mxCell id="J9957J2RrdoFGION4xRZ-10" value="一、设备订货（15，32，3840）" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="200" height="1860" as="geometry">
+            <mxRectangle x="60" y="30" width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-17" target="J9957J2RrdoFGION4xRZ-19">
@@ -408,6 +408,9 @@
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-136" value="月度项目进度及质量管控、汇报(3，20，480）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9957J2RrdoFGION4xRZ-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J9957J2RrdoFGION4xRZ-71" target="J9957J2RrdoFGION4xRZ-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
