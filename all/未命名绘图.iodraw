@@ -76,7 +76,7 @@
         <mxCell id="J9957J2RrdoFGION4xRZ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-38" target="J9957J2RrdoFGION4xRZ-40" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J9957J2RrdoFGION4xRZ-38" value="2.图纸设绘（40%）" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="J9957J2RrdoFGION4xRZ-38" value="&lt;h3&gt;&lt;span lang=&quot;EN-US&quot;&gt;3.1.1&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;客滚船机舱区域管路生产设计分工明细（&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;18,140&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;，&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;20160&lt;/span&gt;&lt;span style=&quot;font-family:等线;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;）&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="J9957J2RrdoFGION4xRZ-40" target="J9957J2RrdoFGION4xRZ-42" parent="1">
@@ -95,7 +95,7 @@
           <mxGeometry x="500" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-44" value="三、生产设计（28，140，31280）" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="460" y="30" width="200" height="740" as="geometry" />
+          <mxGeometry x="460" y="30" width="420" height="740" as="geometry" />
         </mxCell>
         <mxCell id="J9957J2RrdoFGION4xRZ-45" value="6.模型一致性检查（10%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9957J2RrdoFGION4xRZ-44">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
