@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-2" value="&lt;div style=&quot;font-size: 16px; text-align: left; white-space: pre;&quot;&gt;实施精益管理措施&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-710" width="150" height="60" as="geometry" />
+          <mxGeometry x="120" y="-710" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-3" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;成果1：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;作业流程高效化&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="-600" width="150" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-8" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;流程仿真与优化&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-240" width="150" height="60" as="geometry" />
+          <mxGeometry x="120" y="-360" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" edge="1" parent="1" source="WIqZsSfChZAwKZmb9abH-10" target="WIqZsSfChZAwKZmb9abH-12">
           <mxGeometry relative="1" as="geometry" />
