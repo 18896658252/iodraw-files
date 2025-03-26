@@ -278,7 +278,7 @@
         <mxCell id="9wjBwuaaq6zNg0Tm4SCS-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" source="9wjBwuaaq6zNg0Tm4SCS-72" target="9wjBwuaaq6zNg0Tm4SCS-45" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9wjBwuaaq6zNg0Tm4SCS-72" value="&lt;span style=&quot;text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;并行工程创新引入&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="9wjBwuaaq6zNg0Tm4SCS-72" value="&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;数据采集&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="670" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9wjBwuaaq6zNg0Tm4SCS-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;" edge="1" source="9wjBwuaaq6zNg0Tm4SCS-74" target="9wjBwuaaq6zNg0Tm4SCS-76" parent="1">
