@@ -46,7 +46,7 @@
         <mxCell id="WIqZsSfChZAwKZmb9abH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" edge="1" source="WIqZsSfChZAwKZmb9abH-16" target="WIqZsSfChZAwKZmb9abH-18" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIqZsSfChZAwKZmb9abH-16" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;作业流程高效化&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WIqZsSfChZAwKZmb9abH-16" value="&lt;span style=&quot;color: rgb(170, 133, 0); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;资源管理精益化&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="-590" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" edge="1" source="WIqZsSfChZAwKZmb9abH-18" target="WIqZsSfChZAwKZmb9abH-20" parent="1">
