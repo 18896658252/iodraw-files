@@ -19,7 +19,7 @@
         <mxCell id="WIqZsSfChZAwKZmb9abH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" edge="1" parent="1" source="WIqZsSfChZAwKZmb9abH-3" target="WIqZsSfChZAwKZmb9abH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIqZsSfChZAwKZmb9abH-3" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;作业流程高效化&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WIqZsSfChZAwKZmb9abH-3" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;成果1：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;作业流程高效化&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="-590" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" edge="1" parent="1" source="WIqZsSfChZAwKZmb9abH-6" target="WIqZsSfChZAwKZmb9abH-8">
@@ -69,9 +69,6 @@
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-23" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;协同效率大幅提升&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="-110" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WIqZsSfChZAwKZmb9abH-24" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
