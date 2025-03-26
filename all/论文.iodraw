@@ -29,16 +29,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-8" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;流程仿真与优化&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-360" width="150" height="60" as="geometry" />
+          <mxGeometry x="120" y="-360" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" edge="1" parent="1" source="WIqZsSfChZAwKZmb9abH-10" target="WIqZsSfChZAwKZmb9abH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-10" value="&lt;span style=&quot;font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(255, 255, 254); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;关键路径与周期缩短&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-120" width="150" height="60" as="geometry" />
+          <mxGeometry x="120" y="-240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-12" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;协同效率大幅提升&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" width="150" height="60" as="geometry" />
+          <mxGeometry x="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=1;fontSize=16;" edge="1" source="WIqZsSfChZAwKZmb9abH-16" target="WIqZsSfChZAwKZmb9abH-18" parent="1">
           <mxGeometry relative="1" as="geometry" />
