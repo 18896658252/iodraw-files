@@ -52,7 +52,7 @@
         <mxCell id="WIqZsSfChZAwKZmb9abH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;" edge="1" source="WIqZsSfChZAwKZmb9abH-18" target="WIqZsSfChZAwKZmb9abH-20" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIqZsSfChZAwKZmb9abH-18" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;精准需求预测体系构建&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WIqZsSfChZAwKZmb9abH-18" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;精准需求&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;预测体系构建&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="-480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIqZsSfChZAwKZmb9abH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;" edge="1" source="WIqZsSfChZAwKZmb9abH-20" target="WIqZsSfChZAwKZmb9abH-22" parent="1">
