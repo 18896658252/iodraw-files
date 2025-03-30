@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mnoa9309GwLsAUJmgYwf">
-    <mxGraphModel dx="2927" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,7 +235,7 @@
           <mxGeometry x="1950" y="-740" width="300" height="570" as="geometry" />
         </mxCell>
         <mxCell id="_RgRJcvASV5FovuFWEWw-1" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;graph TD;&#xa;    成果1[优化造船舾装作业流程]&#xa;        --&amp;gt; 实地调研[挑选多类型企业调研,X个月跨度,记录全流程信息]&#xa;        --&amp;gt; 价值流分析[用VSM软件绘图,专家团队依七大浪费剖析]&#xa;        --&amp;gt; 并行工程引入与流程规划[多专业周X次研讨,规划并行作业流程]&#xa;        --&amp;gt; 流程仿真验证[用FlexSim等仿真,多轮优化后试点应用]&#xa;    成果2[改善造船舾装资源管理]&#xa;        --&amp;gt; 需求预测模型构建[收集5-10年数据,用多种方法构建模型并定期更新]&#xa;        --&amp;gt; 库存管理模式建立[与供应商建VMI和JMI模式,设协调小组和预警机制]&#xa;        --&amp;gt; 设备布局规划[用SLP方法分析,仿真评估后确定最优布局并实施]&#xa;    成果3[提升造船舾装质量与安全水平]&#xa;        --&amp;gt; 质量管理体系构建[多部门制定标准文件,引入SPC软件监控质量]&#xa;        --&amp;gt; 质量功能展开实施[调研客户需求,用QFD构建质量屋并制定计划]&#xa;        --&amp;gt; 安全管理措施实施[推行5S管理,开展可视化和安全培训及风险评估]&#xa;    成果4[构建有效的精益管理绩效评价体系]&#xa;        --&amp;gt; 评价指标选取与数据收集[专家研讨选指标,多系统收集数据并审核]&#xa;        --&amp;gt; 权重确定与评价模型构建[用AHP确定权重,结合模糊法构建矩阵]&#xa;        --&amp;gt; 结果分析与反馈改进[分析结果,组织会议商讨改进并跟踪优化]&#xa;    研究方案实施&#xa;        --&amp;gt; 成果1&#xa;        --&amp;gt; 成果2&#xa;        --&amp;gt; 成果3&#xa;        --&amp;gt; 成果4&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="770" width="560" height="470" as="geometry" />
+          <mxGeometry x="-610" y="1640" width="560" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
