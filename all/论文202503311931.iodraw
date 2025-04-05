@@ -541,7 +541,7 @@
           <mxGeometry x="-560" y="4282" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-22" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;实地调研&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;价值流分析&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="4160" width="160" height="60" as="geometry" />
+          <mxGeometry x="-335" y="4160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-25" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;并行工程引入&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;与流程规划&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-335" y="4282" width="160" height="60" as="geometry" />
@@ -553,10 +553,10 @@
           <mxGeometry x="-80" y="4160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-31" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;绘制舾装作业价值流程图&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="155" y="4160" width="160" height="60" as="geometry" />
+          <mxGeometry x="160" y="4160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;识别流程中的增值与非增值环节&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="410" y="4160" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="4160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;引入并行工程理念&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-90" y="4282" width="160" height="60" as="geometry" />
