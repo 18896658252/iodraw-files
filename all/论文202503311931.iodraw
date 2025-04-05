@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mnoa9309GwLsAUJmgYwf">
-    <mxGraphModel dx="5981" dy="3266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5481" dy="2966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hVmulLQdoDCLD-sWQFSd-140" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="4120" width="1467" height="500" as="geometry" />
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-140" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="4130" width="1467" height="500" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-129" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#FF3333;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-600" y="4940" width="1200" height="360" as="geometry" />
@@ -763,34 +763,34 @@
           <mxGeometry x="-600" y="5340" width="1200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="4900" width="1467" height="280" as="geometry" />
+          <mxGeometry x="2481" y="4910" width="1467" height="280" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-142" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="4620" width="1467" height="280" as="geometry" />
+          <mxGeometry x="2481" y="4630" width="1467" height="280" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-144" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="3880" width="1467" height="240" as="geometry" />
+          <mxGeometry x="2481" y="3890" width="1467" height="240" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-145" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;研究背景&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1041" y="3978" width="160" height="60" as="geometry" />
+          <mxGeometry x="1041" y="3978" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-146" value="研究背景及意义" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="3930" width="160" height="60" as="geometry" />
+          <mxGeometry x="1281" y="3930" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-147" value="国内外现状" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="4017" width="160" height="60" as="geometry" />
+          <mxGeometry x="1281" y="4017" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-148" value="研究内容与框架" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="4343.53" width="160" height="56.47" as="geometry" />
+          <mxGeometry x="1041" y="4343.53" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-149" value="发现问题&lt;div style=&quot;font-size: 16px;&quot;&gt;分析问题&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1521" y="3978" width="160" height="60" as="geometry" />
+          <mxGeometry x="1521" y="3978" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-150" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;精益管理在造船舾装作业中的应用模式和方法在国内还不够成体系&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1751" y="3930" width="620" height="60" as="geometry" />
+          <mxGeometry x="1751" y="3930" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-151" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;国内舾装作业效率相比国外还存在一定差距&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1751" y="4008" width="620" height="60" as="geometry" />
+          <mxGeometry x="1751" y="4008" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-152" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;研究内容1：&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;优化造船舾装&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;作业流程&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="1280" y="4160" width="220" height="80" as="geometry" />
@@ -841,43 +841,43 @@
           <mxGeometry x="2001" y="4520" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-205" value="案例分析" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="4729" width="160" height="56.47" as="geometry" />
+          <mxGeometry x="1041" y="4729" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-206" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;现状分析&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="4649" width="160" height="60" as="geometry" />
+          <mxGeometry x="1281" y="4649" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-207" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;原因分析、制定方案&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="4729" width="160" height="60" as="geometry" />
+          <mxGeometry x="1281" y="4729" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-208" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;确定结构体系&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;开展推进模块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="4809" width="160" height="60" as="geometry" />
+          <mxGeometry x="1281" y="4809" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-209" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;效果评估&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1521" y="4729" width="160" height="60" as="geometry" />
+          <mxGeometry x="1521" y="4729" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-210" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;内部评估&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1761" y="4674" width="240" height="60" as="geometry" />
+          <mxGeometry x="1761" y="4674" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-211" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;外部评估&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1761" y="4789" width="240" height="60" as="geometry" />
+          <mxGeometry x="1761" y="4789" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-212" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;效率指标&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;财务指标&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;社会效益&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="2081" y="4721.5" width="310" height="75" as="geometry" />
+          <mxGeometry x="2081" y="4721.5" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-213" value="结论与展望" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="5020" width="160" height="56.47" as="geometry" />
+          <mxGeometry x="1041" y="5020" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-214" value="论文结论" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="4930" width="170" height="60" as="geometry" />
+          <mxGeometry x="1281" y="4930" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-215" value="实践建议" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="5020" width="170" height="60" as="geometry" />
+          <mxGeometry x="1281" y="5020" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-216" value="研究局限性" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="5100" width="170" height="60" as="geometry" />
+          <mxGeometry x="1281" y="5100" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-217" value="未来展望" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1941" y="5020" width="460" height="60" as="geometry" />
+          <mxGeometry x="1941" y="5020" width="460" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
