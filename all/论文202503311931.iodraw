@@ -526,19 +526,25 @@
           <mxGeometry x="-770" y="4032" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-6" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;国内外研究现状&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-740" y="4380" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1430" y="4676" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-7" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;研究内容&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-519" y="4380" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1209" y="4676" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-8" value="&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;案例&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-279" y="4380" width="160" height="60" as="geometry" />
+          <mxGeometry x="-969" y="4676" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-9" value="研究背景及意义" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="4032" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-12" value="国内外现状" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="4120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-13" value="研究框架与创新" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="4210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-14" value="研究内容与方法" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="4310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
