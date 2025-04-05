@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-134" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="4120" width="1467" height="1600" as="geometry" />
+        </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-827" y="6080" width="1467" height="400" as="geometry" />
         </mxCell>
@@ -538,7 +541,7 @@
           <mxGeometry x="-560" y="4017" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-14" value="研究内容与框架" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="4780" width="160" height="56.47" as="geometry" />
+          <mxGeometry x="-790" y="4920" width="160" height="56.47" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-15" value="发现问题&lt;div style=&quot;font-size: 16px;&quot;&gt;分析问题&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-320" y="3978" width="160" height="60" as="geometry" />
@@ -755,9 +758,6 @@
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-130" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#FF3333;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-600" y="5340" width="1200" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="hVmulLQdoDCLD-sWQFSd-134" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="4120" width="1467" height="1600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
