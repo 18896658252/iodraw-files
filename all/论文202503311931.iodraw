@@ -706,13 +706,13 @@
           <mxGeometry x="-840" y="5910" width="160" height="56.47" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-109" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;现状分析&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="5810" width="160" height="60" as="geometry" />
+          <mxGeometry x="-560" y="5800" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-110" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;原因分析、制定方案&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="5920" width="160" height="60" as="geometry" />
+          <mxGeometry x="-560" y="5920" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-111" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;确定结构体系&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;开展推进模块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="6030" width="160" height="60" as="geometry" />
+          <mxGeometry x="-560" y="6020" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-112" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;效果评估&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-320" y="5910" width="160" height="60" as="geometry" />
@@ -730,13 +730,13 @@
           <mxGeometry x="-840" y="6310" width="160" height="56.47" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-117" value="论文结论" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="6230" width="160" height="56.47" as="geometry" />
+          <mxGeometry x="-560" y="6220" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-118" value="实践建议" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="6350" width="160" height="56.47" as="geometry" />
+          <mxGeometry x="-560" y="6340" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-119" value="研究局限性" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="6480" width="160" height="56.47" as="geometry" />
+          <mxGeometry x="-560" y="6470" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-120" value="未来展望" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-135" y="6340" width="170" height="60" as="geometry" />
