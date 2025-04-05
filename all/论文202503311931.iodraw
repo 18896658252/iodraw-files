@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mnoa9309GwLsAUJmgYwf">
-    <mxGraphModel dx="5481" dy="2966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3716" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -702,8 +702,11 @@
         <mxCell id="hVmulLQdoDCLD-sWQFSd-104" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;分析结果，查找&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt;有效与不足&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-106" y="5430" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hVmulLQdoDCLD-sWQFSd-108" value="研究内容与框架" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-108" value="案例分析" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-750" y="5690" width="160" height="56.47" as="geometry" />
+        </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-109" value="&lt;span style=&quot;text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;研究内容&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;4：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; font-weight: 400; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;构建有效的精益管理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; font-weight: 400; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;绩效评价体系&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="5590" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
