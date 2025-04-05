@@ -735,8 +735,8 @@
         <mxCell id="hVmulLQdoDCLD-sWQFSd-120" value="未来展望" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-95" y="6120" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hVmulLQdoDCLD-sWQFSd-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="4140" width="700" height="340" as="geometry" />
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="4140" width="700" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
