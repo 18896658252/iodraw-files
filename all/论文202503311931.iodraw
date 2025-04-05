@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-129" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#FF3333;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="4940" width="1200" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-128" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#FF3333;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-600" y="4540" width="1200" height="360" as="geometry" />
         </mxCell>
@@ -651,7 +654,7 @@
         <mxCell id="hVmulLQdoDCLD-sWQFSd-78" value="&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;5W&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;H&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;方法对质量问题追根溯源&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=16;aspect=fixed;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="400" y="4960" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hVmulLQdoDCLD-sWQFSd-79" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;引入SPC软件&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;监控质量&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=16;aspect=fixed;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-79" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;引入SPC软件&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 35, 41); text-align: start; white-space: pre;&quot;&gt;监控质量&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=16;aspect=fixed;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="160" y="4960" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-80" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;制定标准化作业流程文件&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=16;aspect=fixed;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
@@ -752,9 +755,6 @@
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-120" value="未来展望" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="100" y="6120" width="460" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hVmulLQdoDCLD-sWQFSd-129" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#FF3333;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="4940" width="1200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-130" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#FF3333;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-600" y="5340" width="1200" height="360" as="geometry" />
