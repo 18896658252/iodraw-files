@@ -711,6 +711,9 @@
         <mxCell id="hVmulLQdoDCLD-sWQFSd-110" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;原因分析、制定战略&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-560" y="5700" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-111" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;确定&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="5810" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
