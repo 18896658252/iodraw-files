@@ -820,16 +820,16 @@
           <mxGeometry x="1280" y="4400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-180" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;质量管理体系构建&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;aspect=fixed;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1521" y="4960" width="160" height="60" as="geometry" />
+          <mxGeometry x="1521" y="4400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-181" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;质量功能展开实施&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;aspect=fixed;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1521" y="5080" width="160" height="60" as="geometry" />
+          <mxGeometry x="1761" y="4400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-182" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;安全管理措施实施&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;aspect=fixed;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1521" y="5201" width="160" height="60" as="geometry" />
+          <mxGeometry x="2001" y="4400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-192" value="&lt;span style=&quot;text-align: left; white-space: pre; background-color: rgb(255, 255, 254); font-size: 16px;&quot;&gt;研究内容&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;4：&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;构建有效的精益管理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;绩效评价体系&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="5470" width="160" height="60" as="geometry" />
+          <mxGeometry x="1281" y="4520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-193" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;评价指标选取&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 16px; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;与数据收集&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;aspect=fixed;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1521" y="5360" width="160" height="60" as="geometry" />
