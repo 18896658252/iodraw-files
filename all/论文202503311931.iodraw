@@ -794,6 +794,15 @@
         <mxCell id="hVmulLQdoDCLD-sWQFSd-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hVmulLQdoDCLD-sWQFSd-148" target="hVmulLQdoDCLD-sWQFSd-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hVmulLQdoDCLD-sWQFSd-148" target="hVmulLQdoDCLD-sWQFSd-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hVmulLQdoDCLD-sWQFSd-148" target="hVmulLQdoDCLD-sWQFSd-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hVmulLQdoDCLD-sWQFSd-148" target="hVmulLQdoDCLD-sWQFSd-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-148" value="研究内容与框架" style="fontSize=18;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;fontFamily=Helvetica;align=center;whiteSpace=wrap;html=1;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="990" y="4343.53" width="220" height="70" as="geometry" />
         </mxCell>
@@ -812,8 +821,14 @@
         <mxCell id="hVmulLQdoDCLD-sWQFSd-151" value="国内舾装作业效率相比国外还存在一定差距" style="fontSize=18;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;align=center;whiteSpace=wrap;html=1;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="1860" y="4017" width="511" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hVmulLQdoDCLD-sWQFSd-152" target="hVmulLQdoDCLD-sWQFSd-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-152" value="研究内容1：&lt;br&gt;优化造船舾装&lt;br&gt;作业流程&lt;br&gt;" style="rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=18;strokeWidth=2;fontStyle=0;align=center;whiteSpace=wrap;html=1;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="1280" y="4160" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hVmulLQdoDCLD-sWQFSd-154" target="hVmulLQdoDCLD-sWQFSd-155">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-154" value="实地调研&lt;br&gt;价值流分析" style="rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=18;strokeWidth=2;fontStyle=0;align=center;whiteSpace=wrap;html=1;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="1574" y="4160" width="220" height="70" as="geometry" />
