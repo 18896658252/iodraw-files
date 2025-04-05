@@ -559,13 +559,13 @@
           <mxGeometry x="400" y="4160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;引入并行工程理念&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-79" y="4282" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="4282" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;规划作业顺序&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="4282" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;构建并行作业流程模型&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="4282" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="4282" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-39" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;并行作业流程进行模拟验证&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-80" y="4378" width="160" height="60" as="geometry" />
@@ -574,7 +574,7 @@
           <mxGeometry x="155.5" y="4378" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-42" value="调整与完善流程&#xa;缩短整体舾装作业周期" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="4378" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="4378" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-45" value="&lt;span style=&quot;text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;研究内容&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;2：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; font-weight: 400; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;改善造船舾装&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; font-weight: 400; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;资源管理&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-560" y="4620" width="160" height="60" as="geometry" />
@@ -589,31 +589,31 @@
           <mxGeometry x="-320" y="4730" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-55" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;收集&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;造船舾装生产数据&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="4510" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="4510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-57" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;构建资源需求预测模型&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="4510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-58" value="入误差分析机制&#xa;提高预测精度" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=14;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="4510" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="4510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-60" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;与供应商建VMI&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;和JMI模式&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-84" y="4620" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="4620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-62" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;搭建先进的信息共享平台&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="4620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-63" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;建立库存风险预警机制&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="4620" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="4620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-65" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;用&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt;系统布置设计&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre;&quot;&gt;SLP方法分析&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="4740" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="4740" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-67" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;绘制设备布局规划图&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="4740" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-68" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;仿真评估后&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;确定最优布局&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="4740" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="4740" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-72" value="&lt;span style=&quot;text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;研究内容&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;3：&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 35, 41); font-size: medium; font-weight: 400; text-align: start; white-space: pre;&quot;&gt;提升造船舾装质量&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 35, 41); font-size: medium; font-weight: 400; text-align: start; white-space: pre;&quot;&gt;与安全水平&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2016px%3B%20text-align%3A%20left%3B%20white-space%3A%20pre%3B%20background-color%3A%20rgb(255%2C%20255%2C%20254)%3B%26quot%3B%26gt%3B%E6%88%90%E6%9E%9C3%EF%BC%9A%26lt%3B%2Fspan%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Btext-align%3A%20left%3B%20white-space%3A%20pre%3B%20background-color%3A%20rgb(255%2C%20255%2C%20254)%3B%26quot%3B%26gt%3B%E8%B4%A8%E9%87%8F%E5%AE%89%E5%85%A8%E5%BC%BA%E5%8C%96%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3BfontFamily%3DHelvetica%3BfontColor%3Ddefault%3BfillOpacity%3D100%3BstrokeOpacity%3D100%3Bshadow%3D0%3BfontSize%3D16%3BstrokeWidth%3D2%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22440%22%20y%3D%222130%22%20width%3D%22160%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-560" y="4960" width="160" height="60" as="geometry" />
@@ -628,31 +628,31 @@
           <mxGeometry x="-320" y="5060" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-78" value="&lt;span style=&quot;background-color: initial; font-family: 等线; font-size: 10.5pt;&quot;&gt;5W&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;2&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 等线; font-size: 10.5pt;&quot;&gt;H&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 等线; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;方法对质量问题追根溯源&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="4860" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="4860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-79" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;引入SPC软件&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;监控质量&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="4860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-80" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;制定标准化作业流程文件&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-87" y="4860" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="4860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-81" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;制定质量控制计划&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="4960" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="4960" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-82" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;质量功能展开（&lt;/font&gt;QFD&lt;font face=&quot;宋体&quot;&gt;）方法，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre;&quot;&gt;构建质量屋&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="4960" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-83" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;调研&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt;客户对船舶质量的多样化需求&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-87" y="4960" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="4960" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-84" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;安全培训及&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;科学风险评估&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="5060" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="5060" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-85" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;开展可视化管理&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="5060" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-86" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;推行6S管理&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="5060" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="5060" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-90" value="&lt;span style=&quot;text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;研究内容&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: left; white-space: pre; background-color: rgb(255, 255, 254);&quot;&gt;4：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; font-weight: 400; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;构建有效的精益管理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; font-weight: 400; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;绩效评价体系&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontColor=default;fillOpacity=100;strokeOpacity=100;shadow=0;fontSize=16;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-560" y="5300" width="160" height="60" as="geometry" />
@@ -667,31 +667,31 @@
           <mxGeometry x="-320" y="5430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-96" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;多系统收集数据&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;并审核&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="5190" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="5190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-97" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;制定详细且严谨的数据收集计划&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="5190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-98" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt;选取具有代表性、可量化且相关联的评价指标&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="5190" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="5190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-99" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;运用敏感性分析方法&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;反馈&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt;后续改进&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="5310" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="5310" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-100" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;结合模糊法构建矩阵&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="5310" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-101" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;层次分析法（&lt;/font&gt;AHP&lt;font face=&quot;宋体&quot;&gt;）&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre;&quot;&gt;确定权重&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-94" y="5310" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="5310" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-102" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:等线;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;推动造船舾装作业效率的提升&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="395" y="5430" width="160" height="60" as="geometry" />
+          <mxGeometry x="400" y="5430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-103" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;组织会议商讨改进&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;并跟踪优化&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="5430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-104" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: medium; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;分析结果，查找&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt;有效与不足&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillOpacity=100;strokeOpacity=100;shadow=0;strokeWidth=2;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="5430" width="160" height="60" as="geometry" />
+          <mxGeometry x="-80" y="5430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-108" value="案例分析" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-800" y="5690" width="160" height="56.47" as="geometry" />
