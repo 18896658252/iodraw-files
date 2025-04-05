@@ -8,7 +8,7 @@
           <mxGeometry x="-827" y="4120" width="1467" height="1600" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="6080" width="1467" height="400" as="geometry" />
+          <mxGeometry x="-827" y="6000" width="1467" height="480" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-827" y="5720" width="1467" height="280" as="geometry" />
@@ -736,19 +736,19 @@
           <mxGeometry x="240" y="5832.5" width="310" height="75" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-116" value="结论与展望" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-805" y="6240" width="160" height="56.47" as="geometry" />
+          <mxGeometry x="-800" y="6150" width="160" height="56.47" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-117" value="论文结论" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-565" y="6120" width="170" height="60" as="geometry" />
+          <mxGeometry x="-560" y="6030" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-118" value="实践建议" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-565" y="6240" width="170" height="60" as="geometry" />
+          <mxGeometry x="-560" y="6120" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-119" value="研究局限性" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-565" y="6360" width="170" height="60" as="geometry" />
+          <mxGeometry x="-560" y="6200" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-120" value="未来展望" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="95" y="6240" width="460" height="60" as="geometry" />
+          <mxGeometry x="100" y="6120" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hVmulLQdoDCLD-sWQFSd-128" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=#FF3333;fontSize=16;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-600" y="4540" width="1200" height="360" as="geometry" />
