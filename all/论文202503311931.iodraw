@@ -729,6 +729,12 @@
         <mxCell id="hVmulLQdoDCLD-sWQFSd-116" value="结论与展望" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-740" y="6090" width="160" height="56.47" as="geometry" />
         </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-117" value="论文结论" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="6010" width="160" height="56.47" as="geometry" />
+        </mxCell>
+        <mxCell id="hVmulLQdoDCLD-sWQFSd-118" value="实践建议" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;shadow=0;strokeWidth=2;fontStyle=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="6130" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
